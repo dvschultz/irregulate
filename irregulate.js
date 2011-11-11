@@ -1,3 +1,5 @@
+/* Author: Derrick Schultz */
+
 // Define the values object, declaring default values and also
 // receiving the user changes, for simpler further reference:
 var values = {
